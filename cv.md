@@ -2,7 +2,7 @@
 
 ---
 
-![photo](./c.png)
+![photo](./c.jpg)
 
 ## Contacts:
 
